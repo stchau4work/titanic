@@ -1,6 +1,6 @@
 #### Kaggle titanic exmaple Titanic: Machine Learning from Disaste (https://www.kaggle.com/c/titanic)
 
-An attempt using Auto-Keras (http://autokeras.com) which is an open-source software for automated machine learning to revisit the titanic classification problem
+An attempt using auto-sklearn (https://automl.github.io/auto-sklearn/master/api.html) which is an open-source software for automated machine learning to revisit the titanic classification problem
 
 Get started using virtualenv:
 
