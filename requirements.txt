@@ -144,7 +144,7 @@ testpath==0.4.2
 text-unidecode==1.2
 tornado==6.0.3
 traitlets==4.3.2
-Twisted==17.9.0
+Twisted==19.7.0
 typing==3.7.4.1
 ufw==0.36
 unattended-upgrades==0.1
