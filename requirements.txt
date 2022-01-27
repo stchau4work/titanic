@@ -77,7 +77,7 @@ jupyter==1.0.0
 jupyter-client==5.3.3
 jupyter-console==6.0.0
 jupyter-core==4.5.0
-jupyter-server-proxy==1.1.0
+jupyter-server-proxy==3.2.1
 jupyterhub==1.0.0
 jupyterlab-dash==0.1.0a3
 keyring==10.6.0
